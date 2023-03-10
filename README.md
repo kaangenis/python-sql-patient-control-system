@@ -8,10 +8,15 @@
 
 
 Bu projenin amacı hastaneler ve sağlık kurumlarının kayıtlarını detaylı bir şekilde tutup, tutulan kayıtlar üzerinde işlemler yapılmasını sağlamaktır.
+
 Bu proje CRUD işlemlerini içerir.
+
 'main.py' dosyasını Python 3 ve üzeri bir sürümde çalıştırdığınız zaman karşınıza uygulamanın arayüzü gelecektir.
+
 Bu arayüzdeki belirtilen buttonlar sayesinde gerekli işlemlerin yapılmasını sağlayan pencereler açılacaktır ve ilgili pencere açıldığı zaman ana menü kapanacaktır.
+
 Ana Sayfa dışındaki tüm pencerelerde 'Ana Sayfaya Dön' buttonu kullanılarak ana sayfaya dönülebilir.
+
 
 Sayfalar sırasıyla:
 
