@@ -3,6 +3,7 @@
 #-PyQt5 (PyQt6 Kullanabilirsiniz fakat sayfaları içeren .py uzantılı dosyaların hepsinde 'PyQt5' importlarını 'PyQt6' olarak değiştirmeniz gerekir.)
 
 #-PyQt5'in içerdiği QtCore, QtGui, QtWidgets eklentileri
+
 #-SQL3
 
 
