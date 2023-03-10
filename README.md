@@ -14,10 +14,15 @@ Bu arayüzdeki belirtilen buttonlar sayesinde gerekli işlemlerin yapılmasını
 Ana Sayfa dışındaki tüm pencerelerde 'Ana Sayfaya Dön' buttonu kullanılarak ana sayfaya dönülebilir.
 
 Sayfalar sırasıyla:
+
 -Yeni Kayıt (Gerekli bilgileri girerek yeni bir hasta kaydı oluşturmanızı sağlar)
+
 -Kayıt Görüntüle (Eklenilen kayıtların görüntülenmesini sağlar)
+
 *WIP* -Kayıt Düzenle (Seçilen kaydın düzenlenmesini sağlar)
+
 -Kayıt Sil (Seçilen kaydın silinmesini sağlar)
+
 
 Uygulamada CRUD İşlemlerinin hepsi sıralı ve başarılı şekilde yapılmıştır.
 
